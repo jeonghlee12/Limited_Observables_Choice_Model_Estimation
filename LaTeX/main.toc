@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Data Generation}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Conditional Multinomial Logit Model}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Data Specifications}{2}{}%
+\contentsline {section}{\numberline {2}Treatment Conditions}{3}{}%
+\contentsline {section}{\numberline {3}Summary Statistics}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Trial 1}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Trial 2}{8}{}%
+\contentsline {section}{\numberline {4}Distribution of Coefficients}{12}{}%
+\contentsline {subsection}{\numberline {4.1}Trial 1}{12}{}%
+\contentsline {subsection}{\numberline {4.2}Trial 2}{16}{}%
